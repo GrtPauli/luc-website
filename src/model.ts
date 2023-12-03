@@ -1,0 +1,1 @@
+export type Campus = "abuja" | "nsuk" | "gombe"
